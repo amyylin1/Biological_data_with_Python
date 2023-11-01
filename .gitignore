@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+DNA_Translation.ipynb
+
 # C extensions
 *.so
 
