@@ -8,6 +8,10 @@ DNA_Translation.ipynb
 # C extensions
 *.so
 100
+cache
+filtered_gene_bc_matrices
+write
+*.docx
 
 
 # Distribution / packaging
