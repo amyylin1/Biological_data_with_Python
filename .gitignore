@@ -13,6 +13,8 @@ filtered_gene_bc_matrices
 write
 *.docx
 
+nih_ex.ipynb
+
 
 # Distribution / packaging
 .Python
