@@ -1,4 +1,4 @@
-# PDB
+This is repo. that contains various python scripts that work with biological or its-related data. 
 
-A Ptyhon script that will let a user to extra information about a macromolecule represented in a PDB file.
+
 
